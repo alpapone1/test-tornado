@@ -1,5 +1,5 @@
 
-Steps to create the infrastructure required (EC2 + RDS + ALB + SG) :
+Steps to create the infrastructure required (EC2 + RDS + ALB + SG + DNS) :
 
 1) After you have cloned the github repo (https://github.com/alpapone1/test-tornado.git) , you need to move to the folder "envs" and then you choose for which regionand which environment (dev/qa/prod) you want to create the infrastructure.
 	
